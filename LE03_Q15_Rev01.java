@@ -20,6 +20,7 @@ public class LE03_Q15_Rev01 {
 			System.out.print("Informe um Número: ");
 			num = lerNum.nextInt();
 			soma = soma + num;
+			
 			System.out.print("Deseja Continuar? [ 1 ] Encerra | [ 2 ] Continua.");
 			saida = lerSaida.nextInt();
 		}

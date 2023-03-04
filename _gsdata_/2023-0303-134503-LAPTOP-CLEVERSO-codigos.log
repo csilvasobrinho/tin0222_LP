@@ -1,0 +1,30 @@
+2023-03-03 13:45:16: == Sincronização iniciada por User Command
+2023-03-03 13:45:16: /ExemploPrintf.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /ExemploPrintln.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /ExemploScanner.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q01_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q01_Rev02.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q01_Rev03.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q02_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q02_Rev02.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q02_Rev03.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q03_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q03_Rev03.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q03_Rev02.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q04_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q04_Rev02.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q05_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q04_Rev03.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q06_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q07_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q08_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q09_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q10_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q11_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q12_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q14_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: /LE03_Q13_Rev01.java: unresolved conflict results in No Copy
+2023-03-03 13:45:16: Copiar novo 'C:/respositoriosEclipse/tin0222/src/LE04_Q01_Rev01.java' -> 'C:/Users/angel/Documents/OneDrive2022/OneDrive/CENTEC/CLEVERSON/05 Linguagem de Programação/TIN 02-22/TIN_02-22_LinguagemDeProgramação/repositorioCodigos/LE04_Q01_Rev01.java' (1,143)
+2023-03-03 13:45:16: Copiar novo 'C:/respositoriosEclipse/tin0222/src/LE03_Q15_Rev01.java' -> 'C:/Users/angel/Documents/OneDrive2022/OneDrive/CENTEC/CLEVERSON/05 Linguagem de Programação/TIN 02-22/TIN_02-22_LinguagemDeProgramação/repositorioCodigos/LE03_Q15_Rev01.java' (897)
+2023-03-03 13:45:16: Copiar novo 'C:/respositoriosEclipse/tin0222/src/LE04_Q01_Rev02.java' -> 'C:/Users/angel/Documents/OneDrive2022/OneDrive/CENTEC/CLEVERSON/05 Linguagem de Programação/TIN 02-22/TIN_02-22_LinguagemDeProgramação/repositorioCodigos/LE04_Q01_Rev02.java' (1,209)
+2023-03-03 13:45:16: == Sincronização concluída. Tempo: 00:00:00, Velocidade: 0.00/s, OK: 6, Erros: 0, Conflicts: 25

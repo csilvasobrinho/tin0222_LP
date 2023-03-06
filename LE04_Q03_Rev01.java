@@ -47,7 +47,9 @@ public class LE04_Q03_Rev01 {
 			controle = ctrlSaida.nextInt();
 		}
 		System.out.println(" \n \n Obrigado!!");
-
+		numProd.close();
+		qtiProd.close();
+		valorProd.close();
+		ctrlSaida.close();
 	}
-
 }

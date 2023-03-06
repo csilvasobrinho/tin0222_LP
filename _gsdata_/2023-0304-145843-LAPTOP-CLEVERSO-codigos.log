@@ -1,0 +1,7 @@
+2023-03-04 14:58:44: - Análise iniciada por On File Change, After Delay
+2023-03-04 14:58:44: E: State File has changed, so re-read it: C:/respositoriosEclipse/tin0222/src/_gsdata_/_file_state_v4._gs
+2023-03-04 14:58:44: E: State file does not exist: C:/respositoriosEclipse/tin0222/src/_gsdata_/_file_state_v4._gs
+2023-03-04 14:58:44: Alterações: 0, Conflitos: 0, Tempo: 0, Correções: 36, Erros: 0, All: 38
+2023-03-04 14:58:44: == Sincronização iniciada por On File Change, After Delay
+2023-03-04 14:58:44: Start only 0 threads, limited by tasks to run
+2023-03-04 14:58:48: == Sincronização concluída. Tempo: 00:00:05, Velocidade: 0.00/s, OK: 36, Erros: 0

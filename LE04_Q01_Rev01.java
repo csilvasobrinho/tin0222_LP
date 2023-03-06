@@ -33,5 +33,6 @@ public class LE04_Q01_Rev01 {
 			System.out.printf("Média do Exames: %.2f \n", m);
 			System.out.print(" :(");
 		}
+		lerN.close();
 	}
 }

@@ -18,7 +18,7 @@ public class LE04_Q01_Rev02 {
 		nota = JOptionPane.showInputDialog("1a. Nota: ");
         n1 = Float.parseFloat(nota);
         
-        nota = JOptionPane.showInputDialog("2a. Nota: ");
+        nota = JOptionPane.showInputDialog("2a. Nota: ", JOptionPane.INFORMATION_MESSAGE);
         n2 = Float.parseFloat(nota);
         
         nota = JOptionPane.showInputDialog("3a. Nota: ");
@@ -32,7 +32,8 @@ public class LE04_Q01_Rev02 {
 			cara = " :(";
 		}
 		
-		JOptionPane.showMessageDialog(null,"A média do aluno é " + m + cara,"Média",JOptionPane.INFORMATION_MESSAGE);
+		JOptionPane.showMessageDialog(null,"A média do aluno é " + m + cara,
+				"Média",JOptionPane.INFORMATION_MESSAGE);
 			
 	}
 }

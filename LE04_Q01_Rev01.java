@@ -19,8 +19,10 @@ public class LE04_Q01_Rev01 {
 		
 		System.out.print("1a. Nota: ");
 		n1 = lerN.nextFloat();
+		
 		System.out.print("2a. Nota: ");
 		n2 = lerN.nextFloat();
+		
 		System.out.print("3a. Nota: ");
 		n3 = lerN.nextFloat();
 		

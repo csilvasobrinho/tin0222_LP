@@ -9,13 +9,15 @@ public class AP02_Q03_Rev01 {
 		Scanner lerIdade = new Scanner(System.in);
 		
 		for(cont = 1; cont <= 4; cont++) {
-			System.out.println("Idade da "+cont+" pessoa.");
+			System.out.println("Idade da "+cont+"a. pessoa.");
 			idade = lerIdade.nextInt();
+			
 			if(idade >= 60) {
 				contIdoso++;
 			}
 		}
 		System.out.println("Temos: "+contIdoso+" idoso(s).");
+		lerIdade.close();
 
 	}
 
